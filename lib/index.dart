@@ -1,0 +1,54 @@
+// Export pages
+export '/pages/a_login_salao_nexla/a_login_salao_nexla_widget.dart'
+    show ALoginSalaoNexlaWidget;
+export '/pages/b_home_salao_nexla/b_home_salao_nexla_widget.dart'
+    show BHomeSalaoNexlaWidget;
+export '/pages/b_agendamento_salao_nexla/b_agendamento_salao_nexla_widget.dart'
+    show BAgendamentoSalaoNexlaWidget;
+export '/pages/b_painel_salao_nexla/b_painel_salao_nexla_widget.dart'
+    show BPainelSalaoNexlaWidget;
+export '/pages/b_b_editar_perfil_salao_nexla/b_b_editar_perfil_salao_nexla_widget.dart'
+    show BBEditarPerfilSalaoNexlaWidget;
+export '/pages/c_servico_salao_nexla/c_servico_salao_nexla_widget.dart'
+    show CServicoSalaoNexlaWidget;
+export '/pages/c_profissional_salao_nexla/c_profissional_salao_nexla_widget.dart'
+    show CProfissionalSalaoNexlaWidget;
+export '/pages/c_dia_hora_salao_nexla/c_dia_hora_salao_nexla_widget.dart'
+    show CDiaHoraSalaoNexlaWidget;
+export '/pages/c_confirmar_salao_nexla/c_confirmar_salao_nexla_widget.dart'
+    show CConfirmarSalaoNexlaWidget;
+export '/pages/z_senhas/z_senhas_widget.dart' show ZSenhasWidget;
+export '/pages/d_servico_salao_nexla/d_servico_salao_nexla_widget.dart'
+    show DServicoSalaoNexlaWidget;
+export '/pages/d_profissional_salao_nexla/d_profissional_salao_nexla_widget.dart'
+    show DProfissionalSalaoNexlaWidget;
+export '/pages/d_dia_hora_salao_nexla/d_dia_hora_salao_nexla_widget.dart'
+    show DDiaHoraSalaoNexlaWidget;
+export '/pages/d_confirmar_salao_nexla/d_confirmar_salao_nexla_widget.dart'
+    show DConfirmarSalaoNexlaWidget;
+export '/pages/a_cadastro_cliente_salao_nexla/a_cadastro_cliente_salao_nexla_widget.dart'
+    show ACadastroClienteSalaoNexlaWidget;
+export '/pages/a_esqueci_senha_salao_nexla/a_esqueci_senha_salao_nexla_widget.dart'
+    show AEsqueciSenhaSalaoNexlaWidget;
+export '/pages/a_confirma_email_salao_nexla/a_confirma_email_salao_nexla_widget.dart'
+    show AConfirmaEmailSalaoNexlaWidget;
+export '/pages/e_home_adm_salao_nexla/e_home_adm_salao_nexla_widget.dart'
+    show EHomeAdmSalaoNexlaWidget;
+export '/pages/f_gerenciar_funcionario_salao_nexla/f_gerenciar_funcionario_salao_nexla_widget.dart'
+    show FGerenciarFuncionarioSalaoNexlaWidget;
+export '/pages/f_f_add_funcionario_salao_nexla/f_f_add_funcionario_salao_nexla_widget.dart'
+    show FFAddFuncionarioSalaoNexlaWidget;
+export '/pages/f_f_editar_funcionario_salao_nexla/f_f_editar_funcionario_salao_nexla_widget.dart'
+    show FFEditarFuncionarioSalaoNexlaWidget;
+export '/pages/g_gerenciar_servico_salao_nexla/g_gerenciar_servico_salao_nexla_widget.dart'
+    show GGerenciarServicoSalaoNexlaWidget;
+export '/pages/g_g_adicionar_servico_salao_nexla/g_g_adicionar_servico_salao_nexla_widget.dart'
+    show GGAdicionarServicoSalaoNexlaWidget;
+export '/pages/g_g_editar_servico_salao_nexla/g_g_editar_servico_salao_nexla_widget.dart'
+    show GGEditarServicoSalaoNexlaWidget;
+export '/pages/e_agenda_salao_nexla/e_agenda_salao_nexla_widget.dart'
+    show EAgendaSalaoNexlaWidget;
+export '/pages/e_relatorio_salao_nexla/e_relatorio_salao_nexla_widget.dart'
+    show ERelatorioSalaoNexlaWidget;
+export '/pages/h_home_colaborador_salao_nexla/h_home_colaborador_salao_nexla_widget.dart'
+    show HHomeColaboradorSalaoNexlaWidget;
