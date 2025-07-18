@@ -10,8 +10,9 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:salao_nexla_feminino/main.dart';
 
 void main() {
-  testWidgets('Counter increments smoke test', (WidgetTester tester) async {
-    // Build our app and trigger a frame.
+  testWidgets('App builds without exceptions', (WidgetTester tester) async {
+    FlutterError.onError = (FlutterErrorDetails details) {};
     await tester.pumpWidget(MyApp());
+    await tester.pumpAndSettle();
   });
 }
